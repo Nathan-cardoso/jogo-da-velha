@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.board-row button{
+    height: 70px;
+    width: 70px; 
+}
+
+.board-row{
+    width: 400px;
+    margin: 0px auto;
+}
